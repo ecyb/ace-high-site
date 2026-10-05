@@ -1,7 +1,7 @@
 {
-  "showRoulette": true,
-  "showBlackjack": true,
-  "showCasinoBuilder": true,
+  "showRoulette": false,
+  "showBlackjack": false,
+  "showCasinoBuilder": false,
   "showSpin": true,
   "showSitAndGo": true,
   "showOmaha": true
